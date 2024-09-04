@@ -1,0 +1,14 @@
+*.csv
+__pycache__/**
+.idea/**
+open_ai_calls.log
+test*
+openaiSelenium*
+open_ai_calls.json
+_*
+.venv
+generated_cv*
+.vscode
+chrome_profile
+answers.json
+data*
